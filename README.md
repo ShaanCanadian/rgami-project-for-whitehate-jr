@@ -1,2 +1,1 @@
-# rgami-project-for-whitehate-jr
-studet project
+# project-49
